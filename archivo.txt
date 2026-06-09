@@ -1,1 +1,5 @@
-﻿Cambio distinto en main
+﻿Este es un archivo de prueba para el desafio de Git
+
+Cambios agregados en la rama mi-rama-nueva
+Contenido en mi-rama-nueva
+Cambio distinto en main
