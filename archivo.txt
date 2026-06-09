@@ -3,5 +3,6 @@
 Cambios agregados en la rama mi-rama-nueva
 Contenido en mi-rama-nueva
 Cambio distinto en main
+Cambios agregados en la rama principal
 Linea 1: Version de la rama nueva
 Linea 2: Cambios en mi-rama-nueva
