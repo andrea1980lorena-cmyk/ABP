@@ -1,1 +1,16 @@
-﻿Cambio distinto en main
+﻿Linea 1: Version combinada (rama nueva + master)
+Linea 2: Cambios en mi-rama-nueva
+Linea 3: Tambien incluimos cambios de master
+Linea 4: Cambio exclusivo en mi-rama-nueva
+Linea 5: Cambio exclusivo en main
+
+Este es un archivo de prueba para el desafio de Git
+
+Cambios agregados en la rama mi-rama-nueva
+Contenido en mi-rama-nueva
+Cambio distinto en main
+Cambios agregados en la rama principal
+Linea 1: Version de la rama nueva
+Linea 2: Cambios en mi-rama-nueva
+Linea 1: Version de la rama principal
+Linea 2: Cambios en master
