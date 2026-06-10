@@ -2,6 +2,7 @@
 Linea 2: Cambios en mi-rama-nueva
 Linea 3: Tambien incluimos cambios de master
 Linea 4: Cambio exclusivo en mi-rama-nueva
+Linea 5: Cambio exclusivo en main
 
 Este es un archivo de prueba para el desafio de Git
 
