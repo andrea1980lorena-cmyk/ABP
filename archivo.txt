@@ -1,5 +1,9 @@
-﻿<<<<<<< HEAD
-﻿Este es un archivo de prueba para el desafio de Git
+﻿Linea 1: Version combinada (rama nueva + master)
+Linea 2: Cambios en mi-rama-nueva
+Linea 3: Tambien incluimos cambios de master
+Linea 4: Cambio exclusivo en mi-rama-nueva
+
+Este es un archivo de prueba para el desafio de Git
 
 Cambios agregados en la rama mi-rama-nueva
 Contenido en mi-rama-nueva
@@ -9,7 +13,3 @@ Linea 1: Version de la rama nueva
 Linea 2: Cambios en mi-rama-nueva
 Linea 1: Version de la rama principal
 Linea 2: Cambios en master
-=======
-Linea 1: Version de la rama principal
-Linea 2: Cambios en master
->>>>>>> 2da7966 (Cambios en master que conflictuan)
